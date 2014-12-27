@@ -5,6 +5,7 @@
 \RequirePackage{parskip}
 \RequirePackage[margin=8em]{geometry}
 \RequirePackage[hidelinks]{hyperref}
+\RequirePackage{titling}
 
 \renewcommand*{\familydefault}{\sfdefault}
 \renewcommand*{\encodingdefault}{T1} % You may want cm-super for this
